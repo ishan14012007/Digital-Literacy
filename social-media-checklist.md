@@ -1,4 +1,4 @@
-#The Social Media "Do" List
+# The Social Media "Do" List
 
 1.Do curate a professional profile (like LinkedIn) that highlights your skills, academic projects, and campus involvement.
 
@@ -10,7 +10,7 @@
 
 5.Do set healthy boundaries for screen time to ensure social media doesn't interfere with your academic performance or sleep.
 
-#The Social Media "Don't" List
+# The Social Media "Don't" List
 
 1.Don't post content that depicts illegal activities, excessive partying, or anything that violates your university’s code of conduct.
 
